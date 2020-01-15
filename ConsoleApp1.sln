@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedObjects", "ConsoleApp1\NestedObjects.csproj", "{5EA23660-FB68-4B43-9B62-CE574F206433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA23660-FB68-4B43-9B62-CE574F206433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA23660-FB68-4B43-9B62-CE574F206433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA23660-FB68-4B43-9B62-CE574F206433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA23660-FB68-4B43-9B62-CE574F206433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0126E882-7372-491F-BE38-6A1AC4CDBDE3}
+	EndGlobalSection
+EndGlobal
